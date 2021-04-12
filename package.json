@@ -1,0 +1,25 @@
+{
+    "name": "vscode-better-vuejs-extension-pack",
+    "displayName": "Better VueJS Extension Pack",
+    "description": "VSCode extension pack to improve your VueJS development workflow.",
+    "publisher": "gquittet",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gquittet/vscode-better-vuejs-extension-pack.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gquittet/vscode-better-vuejs-extension-pack/issues",
+        "email": "guillaume.quittet@gmail.com"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "hollowtree.vue-snippets",
+        "octref.vetur"
+    ]
+}
